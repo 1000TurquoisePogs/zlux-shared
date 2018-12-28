@@ -1,0 +1,21 @@
+{
+  "name": "zlux-shared",
+  "version": "1.0.0",
+  "description": "Zowe App Framework Utilities Shared by Server and Browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zowe/zlux-shared.git"
+  },
+  "author": "",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zowe/zlux-shared/issues"
+  },
+  "homepage": "https://github.com/zowe/zlux-shared#readme"
+  "dependencies": {
+    "zlux-platform": "git+ssh://git@github.com:1000TurqoisePogs/zlux-platform.git#feature\/test-npm-deps"
+  }  
+}
